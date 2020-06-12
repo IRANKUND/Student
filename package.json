@@ -1,0 +1,22 @@
+{
+  "name": "student",
+  "version": "1.0.0",
+  "description": "student management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IRANKUND/Student.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IRANKUND/Student/issues"
+  },
+  "homepage": "https://github.com/IRANKUND/Student#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
